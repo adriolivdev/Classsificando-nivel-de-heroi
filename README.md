@@ -1,7 +1,7 @@
 # 🦸‍♂️ Desafio: Classificador de Nível de Herói
 
 ## 📋 Objetivo
-Criar um programa em Node.js que classifica o nível de um herói com base na quantidade de experiência (XP) que ele possui.
+Cria um programa em Node.js que classifica o nível de um herói com base na quantidade de experiência (XP) que ele possui.
 
 ## 🚀 Tecnologias Utilizadas
 - **Node.js** 🟢
